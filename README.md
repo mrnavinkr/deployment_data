@@ -1,4 +1,4 @@
-# Deployment Data - My  Data Science Project
+# Deployment Data - My  Data Science Mini_Project
 
 This is my ** Data Science project**, where I explore and deploy datasets using Python and related tools.
 
