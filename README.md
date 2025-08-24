@@ -23,3 +23,9 @@ This project is focused on **data analysis, visualization, and deployment**. It 
 1. Clone the repository:
 ```bash
 git clone https://github.com/mrnavinkr/deployment_data.git
+# Deployment Data - My First Data Science Proje
+
+### 🌐 Live Demo (Optional)
+If you have deployed the project on Streamlit, you can also check the live app here:  
+[Open Live Streamlit App](https://mrnavinkr-deployment-data-datamain-blmkjs.streamlit.app/)
+
